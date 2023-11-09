@@ -1,2 +1,2 @@
-# ordenacao
+# ordenação
 criando uma lista
